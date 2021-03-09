@@ -5,14 +5,14 @@ Nosotros, como miembros, contribuyentes y administradores nos comprometemos a ha
 Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 
 # Nuestros estándares
-#Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
+# Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
 Demostrar empatía y amabilidad ante otras personas
 Respeto a diferentes opiniones, puntos de vista y experiencias
 Dar y aceptar adecuadamente retroalimentación constructiva
 Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
 Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
-Ejemplos de comportamiento inaceptable:
+# Ejemplos de comportamiento inaceptable:
 
 El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo
 Comentarios despectivos (trolling), insultantes o derogatorios, y ataques personales o políticos
