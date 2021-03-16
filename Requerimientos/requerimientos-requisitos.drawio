@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:43:06.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="_4blhVvMV6ekuPvmqozX" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:43:19.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="hZ3IwJtbcdFWGZctpJ5b" version="14.4.8" type="github">
   <diagram id="fVDs0ogSRT2yylNp9sAP" name="Page-1">
     <mxGraphModel dx="828" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWJ65bVkrcLTuajFmTtX-113" value="Circulos de&lt;br&gt;intercambio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="200" y="1726" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWJ65bVkrcLTuajFmTtX-117" value="Comunidad" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="360" y="1690" width="120" height="60" as="geometry" />
