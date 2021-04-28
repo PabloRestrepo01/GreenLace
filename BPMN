@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T16:18:37.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="ao1fQewQBC75bqWR12r_" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T03:56:41.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="HmtOR9R27oYtIMMF89hy" version="14.6.6" type="github">
   <diagram id="eZJmg3Ee6KYPFmTw0ZxD" name="Page-1">
     <mxGraphModel dx="828" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -539,6 +539,9 @@
         </mxCell>
         <mxCell id="sYLEM3nb81OsV58Tq37e-394" value="Intereses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="sYLEM3nb81OsV58Tq37e-315" vertex="1">
           <mxGeometry x="1027" y="22" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uqellsFJar1G-GvaJ0Fx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="sYLEM3nb81OsV58Tq37e-315" source="GLYiv77buBihL0fTL36N-29" target="sYLEM3nb81OsV58Tq37e-322">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GLYiv77buBihL0fTL36N-29" value="Registrarse" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" parent="sYLEM3nb81OsV58Tq37e-315" vertex="1">
           <mxGeometry x="135" y="206" width="120" height="80" as="geometry" />
@@ -1128,7 +1131,7 @@
             <mxPoint x="2410" y="1765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUSzyI1jFXC-dOLZJec7-1" value="Cosas que no se hacer y necesito:&lt;br&gt;Como entrar en un distinto rol&lt;br&gt;Como hacer lo de cancelar o rechazar en cualquier momento&lt;br&gt;Como mostrar el tiempo de envió&lt;br&gt;¿En que tiempo gramático tienen que estar las actividades?&lt;br&gt;Como colocar las funcionalidades premium?&lt;br&gt;&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="AUSzyI1jFXC-dOLZJec7-1" value="Cosas que no se hacer y necesito:&lt;br&gt;Como entrar en un distinto rol&lt;br&gt;Como hacer lo de cancelar o rechazar en cualquier momento&lt;br&gt;Como mostrar el tiempo de envió&lt;br&gt;¿En que tiempo gramático tienen que estar las actividades?&lt;br&gt;Como colocar las funcionalidades premium?&lt;br&gt;&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="2270" y="190" width="310" height="200" as="geometry" />
         </mxCell>
       </root>
