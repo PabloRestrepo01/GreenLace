@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T21:31:11.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="FW-3lb_mQ-azR9GRfFd1" version="14.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-30T21:33:05.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="q8iIhnsdWENPxHFCesFs" version="14.9.3" type="github" pages="2">
   <diagram id="cJYdK0aWgCv0kiQEyAfl" name="Page-1">
-    <mxGraphModel dx="1655" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="2870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2202,6 +2202,9 @@
         </mxCell>
         <mxCell id="inEKuRm0LPNRhatLi9s8-7" value="Comprimir para las tablas&lt;br&gt;de uso&lt;br&gt;(Simplificar)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1210" y="-980" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="inEKuRm0LPNRhatLi9s8-8" value="Gestión&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="647.57" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
