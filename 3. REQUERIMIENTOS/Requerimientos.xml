@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T21:59:16.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.275" etag="r_huqLkKAT2CRsted8l8" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-03T21:57:08.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.275" etag="4t1FmdFvEwQ7IndamgXz" version="14.9.3" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="9197" dy="5853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4544" dy="3296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,14 +199,8 @@
         <mxCell id="dpDeo9P8Ljjjo0P6leJq-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Elegir método de trueque&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-d2ba6dba-7fff-241e-3c8d-5d41f9c06c95&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como usuario necesito la capacidad de elegir qué método debo usar para enviar mi producto a otro usuario, al final el fin es efectuar el trueque.&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R14.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="710" y="2021.25" width="200" height="148.75" as="geometry" />
         </mxCell>
-        <mxCell id="dpDeo9P8Ljjjo0P6leJq-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Trueque mediante repartidor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario requiero la opción de elegir hacer un trueque mediante un repartidor asociado a Green Lace&quot;&lt;br&gt;Id=&quot;R14.6&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="500" y="2280" width="200" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="dpDeo9P8Ljjjo0P6leJq-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Trueque por encuentro directo&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario requiero la opción de elegir hacer un trueque reuniéndome directamente con el otro usuario&quot;&lt;br&gt;Id=&quot;R14.7&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2280" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="dpDeo9P8Ljjjo0P6leJq-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Trueque por servicio de envíos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario requiero la opción de elegir realizar el truque mediante un servicio de envíos&quot;&lt;br&gt;Id=&quot;R14.8&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="930" y="2280" width="200" height="140" as="geometry" />
+          <mxGeometry x="540" y="2280" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dpDeo9P8Ljjjo0P6leJq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dpDeo9P8Ljjjo0P6leJq-12" target="6P7HJ15g4u_myKUa-oBY-63" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -221,9 +215,6 @@
         <mxCell id="dpDeo9P8Ljjjo0P6leJq-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Agregar a favoritos&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span&gt;Como usuario deseo poder agregar productos a favoritos para guardar opciones de trueque que encuentre interesantes&lt;/span&gt;&lt;span&gt;&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R6.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="-130" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="uApGY2ZZnlna8FB_wge_-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Recibir información&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-77b6e564-7fff-7939-c564-c03ec5d25312&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como repartidor deseo recibir información de dos usuarios que van a realizar un trueque&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R12.6&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3640" y="1766.25" width="200" height="155" as="geometry" />
-        </mxCell>
         <mxCell id="gF9Cpt0j6eFw0UJZUKjw-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Sanción por Cancelación&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-be150e00-7fff-f28b-1b7a-dc7049e65a8a&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como administrador quiero que al cancelar un trueque después de generado un comprobante de envío se requiera un pago por cancelación inoportuna&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="4410" y="980" width="200" height="145" as="geometry" />
         </mxCell>
@@ -233,17 +224,8 @@
         <mxCell id="uApGY2ZZnlna8FB_wge_-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Usuarios premium&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador quiero que exista un tipo de usuario premium con funcionalidades exclusivas&quot;&lt;br&gt;Id=&quot;R4.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="2050" y="450" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gF9Cpt0j6eFw0UJZUKjw-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Comunicación&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-836ee832-7fff-4b6e-472c-322982e6ddc5&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como repartidor necesito un chat para comunicar el estado del trueque a los usuarios enlazados por el intercambio&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R12.5&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3420" y="1770" width="200" height="147.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OPctbqPGknfmMsjuk_h0-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Editar información perfil&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como repartidor requiero acceder a las funcionalidades específicas de mi rol con mi cuenta&quot;&lt;br&gt;Id=&quot;R12.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3210" y="1771.25" width="200" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="uApGY2ZZnlna8FB_wge_-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Intereses iniciales&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario deseo poder elegir intereses iniciales para hacer intercambios&quot;&lt;br&gt;Id=&quot;R1.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="2120" y="-160" width="200" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OPctbqPGknfmMsjuk_h0-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Distancia entre usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-91a99201-7fff-72c3-a709-0c234a751314&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como repartidor deseo poder ver la ubicación de los usuarios para saber si son cercanos&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R12.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2520" y="1771.25" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uApGY2ZZnlna8FB_wge_-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Foto de perfil&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario requiero subir una foto de perfil durante el registro&quot;&lt;br&gt;Id=&quot;R1.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="2820" y="-145" width="200" height="130" as="geometry" />
@@ -293,9 +275,6 @@
         <mxCell id="OPctbqPGknfmMsjuk_h0-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Eliminar cuenta&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-f523a55d-7fff-fb3f-2793-a94653c73355&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como usuario deseo tener la opción de eliminar mi cuenta&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;2.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1700" y="436.25" width="200" height="147.5" as="geometry" />
         </mxCell>
-        <mxCell id="OPctbqPGknfmMsjuk_h0-17" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificar eliminación de cuenta&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador requiero notificar al usuario cuando su cuenta haya sido eliminada&quot;&lt;br&gt;Id=&quot;R12.3&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2975" y="1767.5" width="200" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="OPctbqPGknfmMsjuk_h0-18" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificar registro de producto&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador debo notificar al usuario cuando su producto ha sido registrado con éxito&quot;&lt;br&gt;Id=&quot;R7.5&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-300" y="-195" width="200" height="150" as="geometry" />
         </mxCell>
@@ -305,14 +284,11 @@
         <mxCell id="OPctbqPGknfmMsjuk_h0-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Métodos de pago&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador debo dar opciones de métodos de pago para las donaciones y multas&quot;&lt;br&gt;Id=&quot;R3.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="1175" y="-240" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="OPctbqPGknfmMsjuk_h0-21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Notificar distancia entre usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador deseo mostrar la distancia entre los usuarios&quot;&lt;br&gt;Id=&quot;R12.2&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2750" y="1780" width="200" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="uApGY2ZZnlna8FB_wge_-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Número de&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;teléfono&lt;/b&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como usuario necesito agregar mi número de teléfono pues puede ser beneficioso para los procesos de intercambio&quot;&lt;br&gt;Id=&quot;R1.5&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="3040" y="-147" width="200" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="gF9Cpt0j6eFw0UJZUKjw-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Servicio de envío&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-363abfb3-7fff-e200-5e05-dd3bf37d35d0&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como usuario debo tener la opción de realizar el trueque enviando el producto con un servicio de envío que desee, luego de esto se efectúa el trueque.&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R11.6&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="1288.75" width="200" height="150" as="geometry" />
+          <mxGeometry x="890" y="2280" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uApGY2ZZnlna8FB_wge_-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Donaciones&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Como administrador deseo que el usuario tenga la opción de hacer una donación directa al proyecto&quot;&lt;br&gt;Id=&quot;R3.1&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="940" y="-245" width="200" height="140" as="geometry" />
@@ -529,7 +505,7 @@
         <mxCell id="jCWZpnaPhi-7MXExTudy-33" value="" style="endArrow=none;html=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="1240" as="sourcePoint" />
-            <mxPoint x="1240" y="1240" as="targetPoint" />
+            <mxPoint x="1040" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-35" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.438;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gF9Cpt0j6eFw0UJZUKjw-7" edge="1">
@@ -562,29 +538,17 @@
             <mxPoint x="1040" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-43" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="gF9Cpt0j6eFw0UJZUKjw-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="1440" as="sourcePoint" />
-            <mxPoint x="1240" y="1240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-44" value="&amp;lt;&amp;lt;&lt;b&gt;deriveReqt&lt;/b&gt;&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;endSize=12;dashed=1;verticalAlign=bottom;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dpDeo9P8Ljjjo0P6leJq-8" edge="1">
           <mxGeometry x="0.0984" y="-6" width="160" relative="1" as="geometry">
             <mxPoint x="-146.60000000000036" y="1428.13" as="sourcePoint" />
-            <mxPoint x="810" y="2280" as="targetPoint" />
+            <mxPoint x="810" y="2240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-45" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="2240" as="sourcePoint" />
+            <mxPoint x="640" y="2240" as="sourcePoint" />
             <mxPoint x="990" y="2240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-47" value="" style="endArrow=open;dashed=1;html=1;strokeWidth=1;startArrow=none;startFill=0;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="2240" as="sourcePoint" />
-            <mxPoint x="610" y="2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-48" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;endFill=0;startArrow=open;startFill=0;" parent="1" edge="1">
@@ -632,57 +596,6 @@
             <mxPoint x="-960" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-64" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;requisitos repartidor" style="shape=rect;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3130" y="1620" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-69" value="" style="endArrow=none;html=1;strokeWidth=1;startArrow=circlePlus;startFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3200" y="1680" as="sourcePoint" />
-            <mxPoint x="3200" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-70" value="" style="endArrow=none;html=1;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2640" y="1720" as="sourcePoint" />
-            <mxPoint x="3760.9409466911766" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-71" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.601;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OPctbqPGknfmMsjuk_h0-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2640" y="1720" as="sourcePoint" />
-            <mxPoint x="3200" y="1780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-72" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.641;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OPctbqPGknfmMsjuk_h0-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2880" y="1720" as="sourcePoint" />
-            <mxPoint x="3200" y="1780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-73" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.525;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OPctbqPGknfmMsjuk_h0-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3080" y="1720" as="sourcePoint" />
-            <mxPoint x="3080" y="1760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-74" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.549;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OPctbqPGknfmMsjuk_h0-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3150" y="1830" as="sourcePoint" />
-            <mxPoint x="3320" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-75" value="" style="endArrow=none;html=1;strokeWidth=1;" parent="1" target="gF9Cpt0j6eFw0UJZUKjw-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3520" y="1720" as="sourcePoint" />
-            <mxPoint x="3620" y="1780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-76" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.6;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uApGY2ZZnlna8FB_wge_-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3570" y="1830" as="sourcePoint" />
-            <mxPoint x="3760" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-83" value="" style="endArrow=circlePlus;html=1;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=0;" parent="1" target="uApGY2ZZnlna8FB_wge_-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="925" y="-840" as="sourcePoint" />
@@ -695,14 +608,6 @@
         <mxCell id="jCWZpnaPhi-7MXExTudy-86" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jCWZpnaPhi-7MXExTudy-84" target="6P7HJ15g4u_myKUa-oBY-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-88" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; Green_Lace_UC:Editar información del repartidor" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
-          <mxGeometry x="3200" y="1490" width="380" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jCWZpnaPhi-7MXExTudy-90" value="" style="endArrow=none;edgeStyle=none;dashed=1;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jCWZpnaPhi-7MXExTudy-88" target="jCWZpnaPhi-7MXExTudy-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jCWZpnaPhi-7MXExTudy-91" value="RefinedBy&lt;br&gt;&amp;lt;&amp;lt;useCase&amp;gt;&amp;gt; Green_Lace_UC:Visualizar otros usuarios&amp;nbsp;" style="shape=note;size=15;align=left;spacingLeft=5;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
@@ -868,6 +773,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="150" as="sourcePoint" />
             <mxPoint x="1830" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hUNjPLDTjOC9rrC9Mo0b-1" value="" style="endArrow=open;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="dpDeo9P8Ljjjo0P6leJq-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2240" as="sourcePoint" />
+            <mxPoint x="770" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
