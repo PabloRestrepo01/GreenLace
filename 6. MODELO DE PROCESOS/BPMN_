@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T13:03:57.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="vfbwxfszojUcFTV7HadU" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-12T13:04:34.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="Ztf3DN1ivPjsowJGF6rY" version="14.9.6" type="github" pages="2">
   <diagram id="HlaR7aK5zic6uURb0PLF" name="Page-1">
     <mxGraphModel dx="1183" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -107,10 +107,10 @@
           <mxGeometry x="20" y="480" width="2220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XfnLvZAAcihEjoEDERaJ-2" value="Invita interesados" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="XfnLvZAAcihEjoEDERaJ-1" vertex="1">
-          <mxGeometry x="100" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XfnLvZAAcihEjoEDERaJ-3" value="Guarda objetos" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="XfnLvZAAcihEjoEDERaJ-1" vertex="1">
-          <mxGeometry x="260" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XfnLvZAAcihEjoEDERaJ-4" value="Valida objetos" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="XfnLvZAAcihEjoEDERaJ-1" vertex="1">
           <mxGeometry x="1340" y="40" width="120" height="80" as="geometry" />
