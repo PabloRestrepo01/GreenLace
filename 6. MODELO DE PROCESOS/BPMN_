@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T13:04:34.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="Ztf3DN1ivPjsowJGF6rY" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-12T13:09:30.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="aK7QtxtG9HhQpEGsK14j" version="14.9.6" type="github" pages="2">
   <diagram id="HlaR7aK5zic6uURb0PLF" name="Page-1">
     <mxGraphModel dx="1183" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -174,6 +174,45 @@
         </mxCell>
         <mxCell id="KpG0-i55vIwOLzL4CwyO-9" value="Presenta bienes" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-24" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1160" width="1480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-25" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-24">
+          <mxGeometry x="20" width="1460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-28" value="Busca objetos de interes" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-25">
+          <mxGeometry x="130" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-31" value="Elige objeto" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-25">
+          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-34" value="Muestra sus objetos a intercambiar" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-25">
+          <mxGeometry x="430" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-36" value="A/R" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-25">
+          <mxGeometry x="580" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-38" value="Entrega objeto" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-25">
+          <mxGeometry x="740" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-26" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-24">
+          <mxGeometry x="20" y="120" width="1460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-29" value="Presenta Objetos" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-26">
+          <mxGeometry x="130" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-30" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-26">
+          <mxGeometry x="50" y="35" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-33" value="Confirma disponibilidad del objeto" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-26">
+          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-35" value="Elige objeto que la interesa" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-26">
+          <mxGeometry x="430" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-4M4Ba-PijIgH0gtxF3v-37" value="Entrega objeto" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="-4M4Ba-PijIgH0gtxF3v-26">
+          <mxGeometry x="740" y="20" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
