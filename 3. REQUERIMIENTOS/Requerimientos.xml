@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T14:20:29.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.298" etag="fOt8yOBnFmDhvAi7mORe" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T14:42:47.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.298" etag="FQLnof_mXzfHTajal6zR" version="14.9.6" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="3547" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="10858" dy="6767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jCWZpnaPhi-7MXExTudy-121" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;Green_Lace_Req&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=244.76;strokeWidth=2;align=center;fillColor=none;shadow=0;sketch=0;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-1860" y="-1340" width="6260" height="4050" as="geometry" />
+          <mxGeometry x="-1940" y="-1300" width="6260" height="4050" as="geometry" />
         </mxCell>
         <mxCell id="JXEWxSCsBSDuMvRvd9YC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circlePlus;endFill=0;" parent="1" source="6P7HJ15g4u_myKUa-oBY-3" target="JXEWxSCsBSDuMvRvd9YC-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -216,7 +216,7 @@
           <mxGeometry x="200" y="-130" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gF9Cpt0j6eFw0UJZUKjw-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Sanción por Cancelación&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span id=&quot;docs-internal-guid-be150e00-7fff-f28b-1b7a-dc7049e65a8a&quot;&gt;&lt;span style=&quot;font-size: 9pt ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Como administrador quiero que al cancelar un trueque después de generado un comprobante de envío se requiera un pago por cancelación inoportuna&lt;/span&gt;&lt;/span&gt;&quot;&lt;br&gt;Id=&quot;R.&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="4410" y="980" width="200" height="145" as="geometry" />
+          <mxGeometry x="4960" y="770" width="200" height="145" as="geometry" />
         </mxCell>
         <mxCell id="OPctbqPGknfmMsjuk_h0-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Municipio del usuario&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;&lt;span&gt;Como usuario deseo ver el municipio en donde residen otros usuarios&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id=&quot;R13.4&quot;&lt;/p&gt;" style="shape=rect;overflow=fill;html=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="1520" width="200" height="140" as="geometry" />
