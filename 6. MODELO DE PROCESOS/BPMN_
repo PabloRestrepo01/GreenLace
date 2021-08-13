@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T14:45:00.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="VCkMv8XAsuMrKRqxYte2" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-13T14:50:48.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.277" etag="l61n5uwLVZiomXwzHfXz" version="14.9.6" type="github" pages="2">
   <diagram id="HlaR7aK5zic6uURb0PLF" name="Simple">
     <mxGraphModel dx="3312" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-4M4Ba-PijIgH0gtxF3v-24" value="Trueque" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="160" width="2440" height="560" as="geometry" />
+          <mxGeometry x="160" y="160" width="2400" height="560" as="geometry" />
         </mxCell>
         <mxCell id="-4M4Ba-PijIgH0gtxF3v-25" value="Interesado" style="swimlane;html=1;startSize=20;horizontal=0;" parent="-4M4Ba-PijIgH0gtxF3v-24" vertex="1">
-          <mxGeometry x="20" width="2420" height="280" as="geometry" />
+          <mxGeometry x="20" width="2380" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-4M4Ba-PijIgH0gtxF3v-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-4M4Ba-PijIgH0gtxF3v-25" source="-4M4Ba-PijIgH0gtxF3v-28" target="kozTzGE7ytJwJZhjT_lY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +120,7 @@
           <mxGeometry x="380" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-4M4Ba-PijIgH0gtxF3v-26" value="Espositor" style="swimlane;html=1;startSize=20;horizontal=0;" parent="-4M4Ba-PijIgH0gtxF3v-24" vertex="1">
-          <mxGeometry x="20" y="280" width="2420" height="280" as="geometry" />
+          <mxGeometry x="20" y="280" width="2380" height="280" as="geometry" />
         </mxCell>
         <mxCell id="-4M4Ba-PijIgH0gtxF3v-29" value="Presenta Objetos" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" parent="-4M4Ba-PijIgH0gtxF3v-26" vertex="1">
           <mxGeometry x="140" y="40" width="120" height="80" as="geometry" />
