@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T14:28:51.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.275" etag="QH2zj6KElLfW0roZcD32" version="14.9.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-19T14:29:50.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 OPR/77.0.4054.275" etag="S3UvnjSh6wKEP174r8op" version="14.9.8" type="github" pages="4">
   <diagram name="Objeto" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="2571" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -147,12 +147,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4_O03M9GJF04LluHWOIO" name="Usuario">
-    <mxGraphModel dx="1856" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3673" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Fvqv1vt0c9QUsIpN0I33-0" />
         <mxCell id="Fvqv1vt0c9QUsIpN0I33-1" parent="Fvqv1vt0c9QUsIpN0I33-0" />
         <mxCell id="Fvqv1vt0c9QUsIpN0I33-25" value="stm&amp;nbsp;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Green_Lace_estados_usuario&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;width=220;height=30;" parent="Fvqv1vt0c9QUsIpN0I33-1" vertex="1">
-          <mxGeometry x="-40" y="-660" width="1293" height="923" as="geometry" />
+          <mxGeometry x="1440" y="40" width="1293" height="923" as="geometry" />
         </mxCell>
         <mxCell id="Fvqv1vt0c9QUsIpN0I33-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Fvqv1vt0c9QUsIpN0I33-1" source="Fvqv1vt0c9QUsIpN0I33-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s4kSe8SVzwk798s3UYBt" name="Trueque">
-    <mxGraphModel dx="1662" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1800" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IWkam6IGs9kBLi2qrcSZ-0" />
         <mxCell id="IWkam6IGs9kBLi2qrcSZ-1" parent="IWkam6IGs9kBLi2qrcSZ-0" />
