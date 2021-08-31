@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T19:16:57.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.147" etag="_D5nibJWn_8Ch2rx_ea5" version="15.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-31T19:19:02.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.147" etag="7RSy-jSFrNHRrSwkhxhM" version="15.0.4" type="github" pages="2">
   <diagram id="YU9psWi7J8uU72Bmqg04" name="Diagrama V2">
-    <mxGraphModel dx="4967" dy="3429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3AFVhyB6cIdvRGJU9jyF-0" />
         <mxCell id="3AFVhyB6cIdvRGJU9jyF-1" parent="3AFVhyB6cIdvRGJU9jyF-0" />
@@ -315,7 +315,7 @@
         <mxCell id="zDgculQ1lOixlhZqy9wx-58" value="+ aceptar_trueque()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zDgculQ1lOixlhZqy9wx-55" vertex="1">
           <mxGeometry y="75.38" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zDgculQ1lOixlhZqy9wx-59" value="+ cancelar_trueque()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zDgculQ1lOixlhZqy9wx-55" vertex="1">
+        <mxCell id="zDgculQ1lOixlhZqy9wx-59" value="+ cancelar_trueqe()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zDgculQ1lOixlhZqy9wx-55" vertex="1">
           <mxGeometry y="101.38" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zDgculQ1lOixlhZqy9wx-60" value="+ negociar_ trueque()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zDgculQ1lOixlhZqy9wx-55" vertex="1">
